@@ -28,7 +28,7 @@ $layanan      = $menu->layanan();
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
                   <div class="row">
-                    <div class="col-md-12"><a href="#paket" class="btn-get-started scrollto">Paket Privat</a></div>
+                    <div class="col-md-12"><a href="#paket" class="btn-get-started scrollto">Paket Usaha</a></div>
                   </div>
                 </div>
                 <div class="col-md-3"></div>

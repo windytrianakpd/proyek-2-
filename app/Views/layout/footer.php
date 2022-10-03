@@ -47,7 +47,7 @@ $menu_layanan  = $menu->layanan();
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
-          <h4>Our Services</h4>
+          <!-- <h4>Our Services</h4> -->
           <ul>
             <?php foreach ($menu_layanan as $menu_layanan) { ?>
               <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('berita/layanan/' . $menu_layanan['slug_berita']) ?>"><?php echo $menu_layanan['judul_berita'] ?></a></li>
